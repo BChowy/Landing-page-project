@@ -55,7 +55,16 @@ a {
   text-align: center;
 }
 .logo {
-  filter: invert(26%) sepia(100%) saturate(7401%) hue-rotate(358deg) brightness(108%) contrast(115%);
-  width: 128px;
+button {
+  padding: 8px 16px;
+  background-color: #080808;
+  color: #d95523;
+  border-radius: 25px;
+  border-width: 1px;
+  border-color: #d95523;
+  font-family: inherit;
+  font-size: inherit;
+}
+
   height: auto;
 }
