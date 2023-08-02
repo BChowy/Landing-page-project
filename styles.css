@@ -55,6 +55,10 @@ a {
   text-align: center;
 }
 .logo {
+  width: 48px;
+  height: auto;
+}
+
 button {
   padding: 8px 16px;
   background-color: #080808;
@@ -66,5 +70,7 @@ button {
   font-size: inherit;
 }
 
+.social-media {
+  width: 16px;
   height: auto;
 }
