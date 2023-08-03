@@ -57,9 +57,17 @@ a {
   display: flex;
   align-items: center;
 }
+
+.home .text {
+  text-align: center;
+  padding: 16px;
+  margin: 16px;
+  flex-basis: 60%;
 }
 
-.links {
+.home .text h3 {
+  display: flex;
+  justify-content: center;
   gap: 16px;
 }
 
