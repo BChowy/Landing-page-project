@@ -111,6 +111,11 @@ a {
   justify-content: center;
 }
 
+.gallery .text {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
   display: flex;
   justify-content: space-around;
   margin-left: 32px;
