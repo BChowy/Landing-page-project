@@ -13,8 +13,6 @@ body {
 }
 
 ul {
-  margin: 0;
-  padding: 0;
   list-style: none;
   display: flex;
 }
@@ -50,6 +48,12 @@ a {
 
 .content .text {
   text-align: center;
+}
+h1,
+h2,
+ul {
+  margin: 0;
+  padding: 0;
 }
 .logo {
   width: 48px;
