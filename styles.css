@@ -71,7 +71,12 @@ a {
   gap: 16px;
 }
 
-.content {
+.synopsis {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
   display: flex;
   justify-content: space-around;
   margin-left: 32px;
