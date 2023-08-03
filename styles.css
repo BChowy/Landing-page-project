@@ -99,6 +99,11 @@ a {
   font-size: small;
   align-self: flex-end;
 }
+
+.synopsis .image img{
+  max-width: 50vw;
+  height: auto;
+}
   display: flex;
   justify-content: space-around;
   margin-left: 32px;
