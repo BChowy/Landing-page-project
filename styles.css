@@ -87,6 +87,18 @@ a {
   justify-content: center;
 }
 
+.synopsis .text h3 {
+  font-size: small;
+  text-align: left;
+  width: fit-content;
+  font-weight: lighter;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.synopsis .text p {
+  font-size: small;
+  align-self: flex-end;
+}
   display: flex;
   justify-content: space-around;
   margin-left: 32px;
