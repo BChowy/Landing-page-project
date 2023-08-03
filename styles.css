@@ -77,6 +77,16 @@ a {
   justify-content: space-between;
   align-items: center;
 }
+
+.synopsis .text {
+  text-align: left;
+  padding: 16px;
+  margin: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
   display: flex;
   justify-content: space-around;
   margin-left: 32px;
