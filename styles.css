@@ -67,6 +67,16 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  font-size: 58px;
+  color: #d95523;
+}
+
+h2 {
+  font-size: 18px;
+}
+
 .logo {
   width: 48px;
   height: auto;
