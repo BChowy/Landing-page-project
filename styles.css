@@ -24,16 +24,12 @@ a {
   color: #fff;
 }
 
-.header {
-  padding: 16px;
-  display: flex;
-  justify-content: space-between;
-}
-
+.header,
 .footer {
-  padding: 16px;
+  margin: 12px 24px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .left {
