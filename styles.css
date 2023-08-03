@@ -43,9 +43,20 @@ a {
 .footer .links {
   gap: 8px;
 }
+
+.home {
+  height: 100vh;
+  width: 100vw;
+  background-image: linear-gradient(90deg,
+      rgba(8, 8, 8, 1) 0%,
+      rgba(8, 8, 8, 0.1) 100%),
+    url(images/image6.jpg);
+  background-position: left center;
+  background-repeat: repeat-x;
+
   display: flex;
   align-items: center;
-  gap: 64px;
+}
 }
 
 .links {
