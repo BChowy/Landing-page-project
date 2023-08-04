@@ -130,6 +130,11 @@ a {
   align-items: center;
   text-align: center;
 }
+
+.gallery .container .card img {
+  max-height: 300px;
+  width: auto;
+}
 h1,
 h2,
 ul {
