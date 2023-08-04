@@ -156,6 +156,12 @@ a {
   padding: 32px;
   margin: 64px;
 }
+
+.signup .text {
+  display: flex;
+  flex-direction: column;
+}
+
 h1,
 h2,
 ul {
