@@ -148,13 +148,13 @@ a {
 }
 
 .gallery .container .card p,
-.signup p {
+.getTicket p {
   font-size: small;
   font-weight: lighter;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.signup {
+.getTicket {
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -165,7 +165,7 @@ a {
   margin: 64px;
 }
 
-.signup .text {
+.getTicket .text {
   display: flex;
   flex-direction: column;
 }
