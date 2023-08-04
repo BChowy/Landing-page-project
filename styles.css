@@ -146,6 +146,14 @@ a {
   max-height: 300px;
   width: auto;
 }
+
+.gallery .container .card p,
+.signup p {
+  font-size: small;
+  font-weight: lighter;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .signup {
   display: flex;
   align-items: center;
