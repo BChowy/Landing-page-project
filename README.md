@@ -6,7 +6,7 @@ This project is a simple landing page for the Oppenheimer movie, created for The
 * Demonstrate my ability to create a visually appealing landing page using HTML and CSS.
 * Learn how to use GitHub to manage a project.
 
-## Demo
+## Preview
 ### You can view the landing page by following this [link](https://bchowy.github.io/landing-page-project/)
 
 ## Result
